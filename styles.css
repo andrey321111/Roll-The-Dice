@@ -1,0 +1,32 @@
+
+body{
+    background-color: #FAF0E6;
+}
+h1{
+    font-family: 'Black Ops One', cursive;
+    font-size: 7rem;
+    text-align: center;
+    color: #352F44;
+  
+}
+h2{
+    font-family: 'Phudu', cursive;
+}
+img{
+    height: 260px;
+    width: 260px;
+    margin-top: 10px;
+
+}
+#player-one{
+
+}
+#player-two{
+
+}
+#p1Img{
+    visibility: hidden;
+}
+#p2Img{
+    visibility: hidden;
+}
